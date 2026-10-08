@@ -2,7 +2,7 @@
 
 API REST de uma academia de ginástica, feita para praticar **mapeamento objeto-relacional (ORM)** com Spring Data JPA e Hibernate: três entidades, dois tipos de associação, consultas derivadas, JPQL e validação.
 
-> Versão completa e mais ambiciosa deste domínio (várias unidades, catraca, aulas com lista de espera, risco de evasão e painel executivo): **[Pulso](https://github.com/barbozadevti/pulso)**.
+> Versão completa e mais ambiciosa deste domínio: **[Pulso](https://github.com/barbozadevti/pulso)**, com várias unidades, catraca com regras, aulas com lista de espera (bloqueio otimista com `@Version`), risco de evasão com motivos, painel executivo, retenção medida, login por perfil (diretoria, gerente, recepção e aluno) e 41 testes.
 
 ## Modelo
 
